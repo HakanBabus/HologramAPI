@@ -1,0 +1,5 @@
+name: HologramAPI
+antigen: HakanBabus\HologramAPI
+version: 1.0.0
+author: HakanBabus
+api: 5.0.0
